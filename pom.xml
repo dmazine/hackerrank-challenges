@@ -12,6 +12,7 @@
         <module>sock-merchant</module>
         <module>counting-valleys</module>
         <module>jumping-on-the-clouds</module>
+        <module>repeated-string</module>
     </modules>
 
     <properties>
