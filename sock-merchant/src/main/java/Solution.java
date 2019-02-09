@@ -4,7 +4,14 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Sock Merchant challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Sock Merchant</a>
+ */
 public class Solution {
+
+    private static final Scanner scanner = new Scanner(System.in);
 
     // Complete the sockMerchant function below.
     static int sockMerchant(int n, int[] ar) {
@@ -21,8 +28,6 @@ public class Solution {
 
         return numberOfPairs;
     }
-
-    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));

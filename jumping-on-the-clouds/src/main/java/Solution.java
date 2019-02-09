@@ -3,7 +3,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Jumping on the Clouds challenge solution.
+ *
+ * @see <a href= "https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Jumping on the Clouds</a>
+ */
 public class Solution {
+
+    private static final Scanner scanner = new Scanner(System.in);
 
     // Complete the jumpingOnClouds function below.
     static int jumpingOnClouds(int[] c) {
@@ -18,8 +25,6 @@ public class Solution {
 
         return numberOfJumps;
     }
-
-    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));

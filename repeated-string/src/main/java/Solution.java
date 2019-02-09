@@ -3,7 +3,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Repeated String challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Repeated String</a>
+ */
 public class Solution {
+
+    private static final Scanner scanner = new Scanner(System.in);
 
     // Complete the repeatedString function below.
     static long repeatedString(String s, long n) {
@@ -16,8 +23,6 @@ public class Solution {
     static long findNumberOfAs(String s) {
         return s.chars().filter(c -> c == 'a').count();
     }
-
-    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));

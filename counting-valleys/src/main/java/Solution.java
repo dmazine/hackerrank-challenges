@@ -3,7 +3,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Counting Valleys challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Counting Valleys</a>
+ */
 public class Solution {
+
+    private static final Scanner scanner = new Scanner(System.in);
 
     // Complete the countingValleys function below.
     static int countingValleys(int n, String s) {
@@ -18,7 +25,7 @@ public class Solution {
                     }
                     break;
 
-                case'D':
+                case 'D':
                     level--;
                     break;
             }
@@ -26,8 +33,6 @@ public class Solution {
 
         return numberOfValleys;
     }
-
-    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
