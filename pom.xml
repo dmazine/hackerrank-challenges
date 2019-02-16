@@ -15,6 +15,7 @@
         <module>repeated-string</module>
         <module>ctci-array-left-rotation</module>
         <module>2d-array</module>
+        <module>minimum-swaps-2</module>
     </modules>
 
     <properties>
