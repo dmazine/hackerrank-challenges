@@ -39,14 +39,6 @@ public class SolutionTest {
     public void testCase5() {
         final int[] q = {1, 2, 5, 3, 7, 8, 6, 4};
 
-        // 1, 2, 5, 3, 7, 8, 6, 4
-
-        // 1, 2, 5, 4, 7, 8, 6, 3
-        // 1, 2, 3, 4, 7, 8, 6, 5
-        // 1, 2, 3, 4, 5, 8, 6, 7
-        // 1, 2, 3, 4, 5, 8, 7, 6
-        // 1, 2, 3, 4, 5, 6, 7, 8
-
         final int result = Solution.findNumberOfBribes(q);
         Assert.assertEquals(7, result);
     }
