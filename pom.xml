@@ -18,6 +18,7 @@
         <module>minimum-swaps-2</module>
         <module>new-year-chaos</module>
         <module>crush</module>
+        <module>ctci-ransom-note</module>
     </modules>
 
     <properties>
