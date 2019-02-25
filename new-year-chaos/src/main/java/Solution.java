@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * New Year Chaos challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">New Year Chaos</a>
+ */
 public class Solution {
 
     // Complete the minimumBribes function below.

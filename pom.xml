@@ -17,6 +17,7 @@
         <module>2d-array</module>
         <module>minimum-swaps-2</module>
         <module>new-year-chaos</module>
+        <module>crush</module>
     </modules>
 
     <properties>
