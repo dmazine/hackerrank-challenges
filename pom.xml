@@ -19,6 +19,7 @@
         <module>new-year-chaos</module>
         <module>crush</module>
         <module>ctci-ransom-note</module>
+        <module>two-strings</module>
     </modules>
 
     <properties>
