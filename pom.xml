@@ -21,6 +21,7 @@
         <module>ctci-ransom-note</module>
         <module>two-strings</module>
         <module>sherlock-and-anagram</module>
+        <module>count-triplets-1</module>
     </modules>
 
     <properties>
