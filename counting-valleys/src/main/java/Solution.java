@@ -1,13 +1,14 @@
+/*
+ * Counting Valleys challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Counting Valleys</a>
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Counting Valleys challenge solution.
- *
- * @see <a href="https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Counting Valleys</a>
- */
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

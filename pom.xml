@@ -25,6 +25,7 @@
         <module>frequency-queries</module>
         <module>mark-and-toys</module>
         <module>ctci-bubble-sort</module>
+        <module>ctci-comparator-sorting</module>
     </modules>
 
     <properties>

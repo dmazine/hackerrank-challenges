@@ -1,13 +1,14 @@
+/*
+ * 2D Array - DS challenge solution.
+ *
+ * @see @see <a href="https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">2D Array - DS</a>
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * 2D Array - DS challenge solution.
- *
- * @see @see <a href="https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">2D Array - DS</a>
- */
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

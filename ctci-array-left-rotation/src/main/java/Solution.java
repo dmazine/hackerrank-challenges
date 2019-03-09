@@ -1,13 +1,14 @@
+/*
+ * Arrays: Left Rotation challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">Arrays: Left Rotation</a>
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Arrays: Left Rotation challenge solution.
- *
- * @see <a href="https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">Arrays: Left Rotation</a>
- */
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

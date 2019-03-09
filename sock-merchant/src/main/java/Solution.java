@@ -1,14 +1,15 @@
+/*
+ * Sock Merchant challenge solution.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Sock Merchant</a>
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * Sock Merchant challenge solution.
- *
- * @see <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Sock Merchant</a>
- */
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

@@ -1,14 +1,15 @@
+/*
+ * Mark and Toys challenge.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting">Mark and Toys</a>
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * Mark and Toys challenge.
- *
- * @see <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting">Mark and Toys</a>
- */
 public class Solution {
 
     // Complete the maximumToys function below.

@@ -1,13 +1,14 @@
+/*
+ * Jumping on the Clouds challenge solution.
+ *
+ * @see <a href= "https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Jumping on the Clouds</a>
+ */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Jumping on the Clouds challenge solution.
- *
- * @see <a href= "https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Jumping on the Clouds</a>
- */
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

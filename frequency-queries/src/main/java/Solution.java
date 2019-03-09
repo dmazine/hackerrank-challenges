@@ -1,3 +1,9 @@
+/*
+ * Frequency Queries challenge.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps">Frequency Queries</a>
+ */
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,11 +15,6 @@ import java.util.stream.IntStream;
 
 import static java.util.stream.Collectors.joining;
 
-/**
- * Frequency Queries challenge.
- *
- * @see <a href="https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps">Frequency Queries</a>
- */
 public class Solution {
 
     // Complete the freqQuery function below.

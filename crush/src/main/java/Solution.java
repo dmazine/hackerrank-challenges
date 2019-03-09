@@ -1,14 +1,15 @@
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
-
-/**
+/*
  * Array Manipulation challenge solution.
  *
  * @see <a href="https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">Array Manipulation</a>
  * @see <a href="https://stackoverflow.com/questions/48162233/logic-used-behind-array-manipulation-of-hackerrank">Logic used behind Array Manipulation of HackerRank</a>
  */
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+
 public class Solution {
 
     // Complete the arrayManipulation function below.

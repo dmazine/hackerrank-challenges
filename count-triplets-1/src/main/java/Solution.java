@@ -1,3 +1,9 @@
+/*
+ * Count Triplets challenge.
+ *
+ * @see <a href="https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps">Count Triplets</a>
+ */
+
 import java.io.*;
 import java.util.HashMap;
 import java.util.List;
@@ -6,11 +12,6 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-/**
- * Count Triplets challenge.
- *
- * @see <a href="https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps">Count Triplets</a>
- */
 public class Solution {
 
     // Complete the countTriplets function below.
