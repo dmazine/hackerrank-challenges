@@ -24,6 +24,7 @@
         <module>count-triplets-1</module>
         <module>frequency-queries</module>
         <module>mark-and-toys</module>
+        <module>ctci-bubble-sort</module>
     </modules>
 
     <properties>
