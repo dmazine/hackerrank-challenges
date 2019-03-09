@@ -23,6 +23,7 @@
         <module>sherlock-and-anagram</module>
         <module>count-triplets-1</module>
         <module>frequency-queries</module>
+        <module>mark-and-toys</module>
     </modules>
 
     <properties>
