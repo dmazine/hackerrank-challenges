@@ -26,6 +26,7 @@
         <module>mark-and-toys</module>
         <module>ctci-bubble-sort</module>
         <module>ctci-comparator-sorting</module>
+        <module>fraudulent-activity-notifications</module>
     </modules>
 
     <properties>

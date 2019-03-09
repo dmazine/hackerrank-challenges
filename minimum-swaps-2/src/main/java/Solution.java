@@ -1,7 +1,7 @@
 /*
  * Minimum Swaps 2 challenge solution.
  *
- * @see <a href="https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays">Minimum Swaps 2</a>
+ * https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
  */
 
 import java.io.BufferedWriter;

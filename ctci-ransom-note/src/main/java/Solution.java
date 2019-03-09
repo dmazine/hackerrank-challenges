@@ -1,7 +1,7 @@
 /*
  * Hash Tables: Ransom Note challenge solution.
  *
- * @See <a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps">Hash Tables: Ransom Note</a>
+ * https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
  */
 
 import java.util.HashMap;

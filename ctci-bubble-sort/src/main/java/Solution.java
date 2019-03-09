@@ -1,7 +1,7 @@
 /*
  * Bubble Sort challenge.
  *
- * @see <a href="https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting">Bubble Sort</a>
+ * https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
  */
 
 import java.util.Scanner;

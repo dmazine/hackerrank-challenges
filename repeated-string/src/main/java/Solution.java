@@ -1,7 +1,7 @@
 /*
  * Repeated String challenge solution.
  *
- * @see <a href="https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup">Repeated String</a>
+ * https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
  */
 
 import java.io.BufferedWriter;

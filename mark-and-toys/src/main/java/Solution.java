@@ -1,7 +1,7 @@
 /*
  * Mark and Toys challenge.
  *
- * @see <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting">Mark and Toys</a>
+ * https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
  */
 
 import java.io.BufferedWriter;
