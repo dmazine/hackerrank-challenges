@@ -2,7 +2,6 @@
  * Fraudulent Activity Notifications challenge.
  *
  * https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
- * https://www.geeksforgeeks.org/counting-sort/
  */
 
 import java.io.BufferedWriter;
@@ -22,6 +21,8 @@ public class Solution {
     static int activityNotifications(int[] expenditures, int numberOfDays) {
         int notificationsCount = 0;
 
+        // Use the Counting Sort algorithm to sort the expenditures in order to calculate the median spending
+        // See https://www.geeksforgeeks.org/counting-sort/
         int[] expendituresFrequencies = new int[MAX_EXPENDITURE + 1];
 
         for (int i = 0; i < numberOfDays; i++) {
