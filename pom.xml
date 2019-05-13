@@ -28,6 +28,7 @@
         <module>ctci-comparator-sorting</module>
         <module>fraudulent-activity-notifications</module>
         <module>ctci-merge-sort</module>
+        <module>ctci-making-anagrams</module>
     </modules>
 
     <properties>
