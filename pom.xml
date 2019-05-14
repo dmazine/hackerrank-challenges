@@ -30,6 +30,7 @@
         <module>ctci-merge-sort</module>
         <module>ctci-making-anagrams</module>
         <module>alternating-characters</module>
+        <module>sherlock-and-valid-string</module>
     </modules>
 
     <properties>
