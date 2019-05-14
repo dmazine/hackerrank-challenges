@@ -29,6 +29,7 @@
         <module>fraudulent-activity-notifications</module>
         <module>ctci-merge-sort</module>
         <module>ctci-making-anagrams</module>
+        <module>alternating-characters</module>
     </modules>
 
     <properties>
