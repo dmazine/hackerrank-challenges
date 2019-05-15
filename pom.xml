@@ -31,6 +31,7 @@
         <module>ctci-making-anagrams</module>
         <module>alternating-characters</module>
         <module>sherlock-and-valid-string</module>
+        <module>special-palindrome-again</module>
     </modules>
 
     <properties>
